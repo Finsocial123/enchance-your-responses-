@@ -3,3 +3,11 @@ sentence-transformers
 numpy
 agno
 openai
+
+ollama
+langchain_community 
+torch
+tensorflow==2.14.0
+tf-keras
+transformers
+redis
