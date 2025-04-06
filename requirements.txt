@@ -7,7 +7,7 @@ openai
 ollama
 langchain_community 
 torch
-tensorflow==2.14.0
+tensorflow
 tf-keras
 transformers
 redis
