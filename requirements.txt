@@ -3,7 +3,6 @@ sentence-transformers
 numpy
 agno
 openai
-
 ollama
 langchain_community 
 torch
