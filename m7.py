@@ -5,7 +5,7 @@ from sentence_transformers import SentenceTransformer, util
 from agno.agent import Agent
 from agno.models.openai.like import OpenAILike
 from concurrent.futures import ThreadPoolExecutor
-
+import os
 st.set_page_config(
     page_title="Finsocial Digital System - Intelligent Query Processing",
     layout="wide"
